@@ -24,6 +24,109 @@
       ],
       "ast": [
         "aggregate/ast/77f36700ac40b18a9341d8e5d2a1dc5d5e793a8b/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/77f36700ac40b18a9341d8e5d2a1dc5d5e793a8b.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "serde_core",
+          "ecosystem": "CARGO",
+          "version": "1.0.220",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "be255d62c81a88226fddfd1b1b97a76a6b5054fb",
+          "githubTag": "v1.0.220",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "stacker",
+          "ecosystem": "CARGO",
+          "version": "0.1.15",
+          "githubOrg": "rust-lang",
+          "githubRepo": "stacker",
+          "githubCommit": "5df2309ccf7b1671909386c2670c7342a4d44142",
+          "githubTag": "stacker-0.1.15",
+          "githubUrl": "https://github.com/rust-lang/stacker",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.220",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "be255d62c81a88226fddfd1b1b97a76a6b5054fb",
+          "githubTag": "v1.0.220",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0.100",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubCommit": "d2fce19685bf0e3d493a9d785665137654c79e6d",
+          "githubTag": "v1.0.100",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "core/src/result.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/iter/traits/collect.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/iter/traits/iterator.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "core/src/macros/mod.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "alloc/src/vec/mod.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "alloc/src/macros.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "alloc/src/string.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        },
+        {
+          "packageName": "std/src/lib.rs",
+          "ecosystem": "CARGO",
+          "githubOrg": "rust-lang",
+          "githubRepo": "rust",
+          "source": "stdlib:rust"
+        }
       ]
     }
   ],
