@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "serde-stacker",
+  "versions": [
+    {
+      "commit": "77f36700ac40b18a9341d8e5d2a1dc5d5e793a8b",
+      "tag": "0.1.14",
+      "parsed_at": "2026-11-23T02:37:28.069160+00:00"
+    }
+  ]
+}
