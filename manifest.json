@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "dtolnay",
+  "repo": "serde-stacker",
+  "versions": [
+    {
+      "commit": "77f36700ac40b18a9341d8e5d2a1dc5d5e793a8b",
+      "parsed_at": "2026-11-23T02:29:56.191309+00:00",
+      "tag": "0.1.14",
+      "filetree": "filetree/77f36700ac40b18a9341d8e5d2a1dc5d5e793a8b.nq.gz",
+      "blobs": [
+        "blob/43fce39f56ac3b0462105f76aadc1cfbb53267e3.nq.gz",
+        "blob/ec2159355c970f06e155cce3f5b2ee7b0d3399a0.nq.gz",
+        "blob/ae1ee44a309fbf17b03f86ef9f26b1ad364cbb84.nq.gz",
+        "blob/1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d.nq.gz",
+        "blob/f7d41a654a2b16c708f78627e5c6b1e945d1b609.nq.gz",
+        "blob/750707701cdae985156601cc906195021ba6a6e5.nq.gz",
+        "blob/33c947ae0fa9247500b0a7669e3258b86349324c.nq.gz",
+        "blob/779df500e29623a18d5d7ffa595c37be4307a4dd.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/77b809c03008aa0cface457b4d15afeb4331bda6.nq.gz",
+        "blob/e9e21997b1aca0707f8749ea13c09aec66c899d2.nq.gz",
+        "blob/5ad4a8b924c861ad6a6c5635eec4dde1019e7bcf.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
